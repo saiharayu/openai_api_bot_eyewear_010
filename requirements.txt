@@ -1,0 +1,5 @@
+streamlit==1.20.0
+openai==0.28.1
+numpy==1.26.4  # pandasとの互換性を考慮
+pandas==1.5.3  # numpyとの互換性を考慮
+requests==2.31.0  # OpenAI APIの通信に必要
